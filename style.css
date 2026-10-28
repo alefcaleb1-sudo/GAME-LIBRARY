@@ -14,3 +14,19 @@ body {
 h1, h2, h3 {
     color: #ffd500;
 }
+
+.games-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.game-card{
+    flex: 1 1 250px;
+
+}
+.game-card:hover {
+    transform: translateY(-5px);
+    border-color: #ffd500;
+    transition: 0.3s;
+}
