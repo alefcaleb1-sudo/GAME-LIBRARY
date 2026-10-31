@@ -4,6 +4,9 @@ Este arquivo registra as alterações realizadas durante o desenvolvimento do pr
 
 ## [0.1.0] — 30/10/2026
 
+### Justificativa da versão
+Foi utilizada a versão 0.1.0 seguindo o SemVer, pois o projeto ainda está em desenvolvimento. O número 0 indica uma versão inicial, ainda sem estabilidade definitiva. Esta versão registra a primeira implementação das funcionalidades básicas do site.
+
 ### Adicionado
 - Estrutura inicial do site Game Library.
 - Página inicial com 15 jogos apresentados em cards.
@@ -26,4 +29,4 @@ Este arquivo registra as alterações realizadas durante o desenvolvimento do pr
 
 ---
 
-**Observação:** Esta versão representa a etapa inicial do projeto. O desenvolvimento continua, com previsão de novas funcionalidades e inclusão das informações dos demais jogos.
+O projeto permanece em desenvolvimento e receberá novas funcionalidades nas próximas versões.
